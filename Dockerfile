@@ -3,7 +3,7 @@
 # Licensed under the MIT License. See License.txt in the project root for license information.
 #---------------------------------------------------------------------------------------------
 
-FROM python:3.6.4-alpine3.7
+FROM python:3.6-alpine3.8
 
 ARG CLI_VERSION
 
